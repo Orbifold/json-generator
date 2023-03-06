@@ -1,0 +1,96 @@
+{
+    "name": "Goodwin, Kuhic and Conroy",
+    "date": "2010-07-31T21:03:12.733Z",
+    "id": "0a3c22b8-2dc0-45d1-8606-e827c9c1a964",
+    "quality": 0.37,
+    "address": {
+        "email": "drew.matzen@keysoft.name",
+        "street": "Bushey Crescent 666",
+        "city": "Petersburg",
+        "zip": "SI 86351",
+        "country": "Slovenia"
+    },
+    "description": "Deleniti tempore veritatis nihil. Harum vitae ratione non accusantium dolore dignissimos. Autem quis dolore ab repudiandae.",
+    "events": [
+        {
+            "direction": "left",
+            "intensity": 0.8,
+            "time": "15:28",
+            "checked": true,
+            "id": "1e00:fbd1:57a0:e39c:7d1e:3fed:2a27:29ef",
+            "coordinates": {
+                "x": 3248.8,
+                "y": 1244.1000000000001,
+                "z": 1340.5
+            },
+            "geo": {
+                "lat": -83.85476,
+                "long": -58.245472
+            }
+        },
+        {
+            "direction": "left",
+            "intensity": 0.7000000000000001,
+            "time": "10:46",
+            "checked": true,
+            "id": "1305:5303:b5c5:f95c:8bcc:907:9eab:fd",
+            "coordinates": {
+                "x": 2674.2000000000003,
+                "y": 1063.7,
+                "z": 2704
+            },
+            "geo": {
+                "lat": 31.895275,
+                "long": 51.675546
+            }
+        },
+        {
+            "direction": "left",
+            "intensity": 0.6000000000000001,
+            "time": "16:55",
+            "checked": true,
+            "id": "d18:307f:f7a5:ed45:2936:4231:aed5:ff44",
+            "coordinates": {
+                "x": 2526.4,
+                "y": 1259.9,
+                "z": 4684.400000000001
+            },
+            "geo": {
+                "lat": -18.012606,
+                "long": 88.102432
+            }
+        },
+        {
+            "direction": "left",
+            "intensity": 0.4,
+            "time": "16:11",
+            "checked": true,
+            "id": "c782:774:8b9e:dfba:afe5:435:de73:26fb",
+            "coordinates": {
+                "x": 4996.6,
+                "y": 1673.5,
+                "z": 2509.7000000000003
+            },
+            "geo": {
+                "lat": -66.048364,
+                "long": -165.852664
+            }
+        },
+        {
+            "direction": "left",
+            "intensity": 0.2,
+            "time": "09:17",
+            "checked": true,
+            "id": "8e97:c466:f3aa:d9f4:8a59:ab95:11bc:c13a",
+            "coordinates": {
+                "x": 3632.2000000000003,
+                "y": 1017,
+                "z": 519.8000000000001
+            },
+            "geo": {
+                "lat": -0.922792,
+                "long": -8.381289
+            }
+        }
+    ]
+}
